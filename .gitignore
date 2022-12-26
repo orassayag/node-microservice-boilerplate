@@ -1,0 +1,10 @@
+*.iml
+/.idea
+.vscode
+/config/env.json
+/package-lock.json
+*.log
+/.env
+node_modules/
+dist/config/env.json
+coverage/
