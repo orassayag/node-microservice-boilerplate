@@ -68,7 +68,7 @@
     "@babel/preset-typescript": "^7.21.0",
     "@jest/globals": "^29.5.0",
     "@types/express": "^4.17.17",
-    "@types/jest": "^29.4.1",
+    "@types/jest": "^29.4.3",
     "@types/morgan": "^1.9.4",
     "@types/node": "^18.15.3",
     "@types/supertest": "^2.0.12",
