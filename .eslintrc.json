@@ -7,8 +7,6 @@
     "standard-with-typescript",
     "airbnb-base",
     "airbnb-typescript/base",
-    "plugin:@typescript-eslint/recommended",
-    "plugin:@typescript-eslint/recommended-requiring-type-checking",
     "plugin:prettier/recommended",
     "prettier"
   ],
@@ -24,10 +22,6 @@
     "func-names": 0,
     "no-unexpected-multiline": "error",
     "no-extra-semi": "off",
-    "@typescript-eslint/no-extra-semi": "error",
-    "@typescript-eslint/no-unsafe-assignment": "off",
-    "@typescript-eslint/no-unsafe-member-access": "off",
-    "@typescript-eslint/no-unsafe-call": "off",
     "import/prefer-default-export": "off",
     "import/extensions": ["error", { "js": "always", "json": "never" }]
   }
