@@ -58,7 +58,7 @@
     "pino": "^9.3.2",
     "pino-pretty": "^11.2.2",
     "redis": "^4.7.0",
-    "ts-jest": "^29.2.3",
+    "ts-jest": "^29.2.4",
     "ts-node": "^10.9.2"
   },
   "devDependencies": {
