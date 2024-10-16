@@ -55,8 +55,8 @@
     "express-useragent": "^1.0.15",
     "morgan": "^1.10.0",
     "npm-run-all": "^4.1.5",
-    "pino": "^9.4.0",
-    "pino-pretty": "^11.2.2",
+    "pino": "^9.5.0",
+    "pino-pretty": "^11.3.0",
     "redis": "^4.7.0",
     "ts-jest": "^29.2.5",
     "ts-node": "^10.9.2"
