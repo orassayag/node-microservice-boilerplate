@@ -62,15 +62,15 @@
     "ts-node": "^10.9.2"
   },
   "devDependencies": {
-    "@jest/globals": "^30.0.2",
+    "@jest/globals": "^30.0.3",
     "@types/express": "^5.0.3",
     "@types/jest": "^30.0.0",
     "@types/morgan": "^1.9.10",
-    "@types/node": "^24.0.3",
+    "@types/node": "^24.0.4",
     "@types/supertest": "^6.0.3",
     "concurrently": "^9.2.0",
     "eslint": "^9.29.0",
-    "jest": "^30.0.2",
+    "jest": "^30.0.3",
     "nodemon": "^3.1.10",
     "prettier": "^3.6.0",
     "supertest": "^7.1.1",
