@@ -47,7 +47,7 @@
     "beautify": "npm-run-all eslint prettier "
   },
   "dependencies": {
-    "chalk": "^5.4.1",
+    "chalk": "^5.5.0",
     "cors": "^2.8.5",
     "dotenv": "^17.2.1",
     "express": "^5.1.0",
@@ -66,7 +66,7 @@
     "@types/express": "^5.0.3",
     "@types/jest": "^30.0.0",
     "@types/morgan": "^1.9.10",
-    "@types/node": "^24.1.0",
+    "@types/node": "^24.2.0",
     "@types/supertest": "^6.0.3",
     "concurrently": "^9.2.0",
     "eslint": "^9.32.0",
