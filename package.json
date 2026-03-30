@@ -2,7 +2,7 @@
   "name": "node-microservice-boilerplate",
   "version": "1.0.0",
   "private": false,
-  "description": "Node Microservice Boilerplate",
+  "description": "A production-ready Node.js TypeScript microservice boilerplate with Express.js, Redis integration, comprehensive logging, and health monitoring",
   "repository": {
     "type": "git",
     "url": "git://github.com/orassayag/node-microservice-boilerplate.git"
@@ -11,9 +11,21 @@
     "microservice",
     "boilerplate",
     "node.js",
-    "typescript"
+    "typescript",
+    "express",
+    "redis",
+    "rest-api",
+    "backend",
+    "server",
+    "pino",
+    "logging",
+    "health-check",
+    "modular-architecture",
+    "jest",
+    "eslint",
+    "prettier"
   ],
-  "license": "UNLICENSED",
+  "license": "MIT",
   "author": "Or Assayag <orassayag@gmail.com>",
   "contributors": [
     {
@@ -62,15 +74,15 @@
     "ts-node": "^10.9.2"
   },
   "devDependencies": {
-    "@jest/globals": "^30.3.0",
+    "@jest/globals": "^30.2.0",
     "@types/express": "^5.0.6",
     "@types/jest": "^30.0.0",
     "@types/morgan": "^1.9.10",
-    "@types/node": "^25.5.0",
+    "@types/node": "^25.3.3",
     "@types/supertest": "^7.2.0",
     "concurrently": "^9.2.1",
-    "eslint": "^10.1.0",
-    "jest": "^30.3.0",
+    "eslint": "^10.0.2",
+    "jest": "^30.2.0",
     "nodemon": "^3.1.14",
     "prettier": "^3.8.1",
     "supertest": "^7.2.2",
